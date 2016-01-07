@@ -1,7 +1,7 @@
 mongo4pi
 ========
 
-Build of source from git://github.com/RickP/mongopi.git
+Build of source from https://github.com/RickP/mongopi
 
 More information can be found at http://markclittle.blogspot.co.uk/2012/12/adventures-in-pi-land-part-two.html
 
