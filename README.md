@@ -8,4 +8,4 @@ More information can be found at http://markclittle.blogspot.com/2012/12/adventu
 This binary is covered by the existing MongoDB licences, which are included in this repository as well as the
 source code repository from which it was built.
 
-Note, this is an old build now. May rebuild.
+Note, this is an old build now from the very first series of Pis. May rebuild.
